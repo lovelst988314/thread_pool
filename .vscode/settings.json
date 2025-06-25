@@ -2,6 +2,17 @@
     "files.associations": {
         "memory": "cpp",
         "thread": "cpp",
-        "condition_variable": "cpp"
+        "condition_variable": "cpp",
+        "compare": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "numeric": "cpp",
+        "format": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "variant": "cpp"
     }
 }
